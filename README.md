@@ -22,6 +22,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/MahmoudSfn"><img src="https://github-readme-stats.vercel.app/api?username=MahmoudSfn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MahmoudSfn's GitHub stats" /></a>
+
+
 [check this link for these owseome badges](https://github.com/Envoy-VC/awesome-badges)
 
 ### ✍️ Random Dev Quote
