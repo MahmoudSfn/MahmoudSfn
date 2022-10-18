@@ -22,9 +22,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<b>My GitHub Stats</b>
+## 🖥 GitHub Stats
 
-<a href="http://www.github.com/MahmoudSfn"><img src="https://github-readme-stats.vercel.app/api?username=MahmoudSfn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MahmoudSfn's GitHub stats" /></a>
+<a href="http://www.github.com/MahmoudSfn"><img src="https://github-readme-stats.vercel.app/api?username=MahmoudSfn&show_icons=true&hide=&count_private=true&title_color=F97316&text_color=ffffff&icon_color=F97316&bg_color=111827&hide_border=true&show_icons=true" alt="MahmoudSfn's GitHub stats" /></a>&nbsp;<a href="http://www.github.com/MahmoudSfn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudSfn&stroke=ffffff&background=111827&ring=F97316&fire=F97316&currStreakNum=ffffff&currStreakLabel=F97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="http://www.github.com/MahmoudSfn"><img src="https://activity-graph.herokuapp.com/graph?username=MahmoudSfn&bg_color=111827&color=ffffff&line=F97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/MahmoudSfn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSfn&langs_count=10&title_color=F97316&text_color=ffffff&icon_color=F97316&bg_color=111827&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<!-- <a href="http://www.github.com/MahmoudSfn"><img src="https://github-readme-stats.vercel.app/api?username=MahmoudSfn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MahmoudSfn's GitHub stats" /></a> -->
 
 
 ### Support Me
