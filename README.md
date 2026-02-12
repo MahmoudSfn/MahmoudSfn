@@ -1,6 +1,16 @@
 # 💫 About Me:
 🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Fullstack Web development<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - mahmoudsouayfan@gmail.com<br>⚡ Fun fact: Spaces are better than tabs 
 
+<br />
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=samirtemtem&color=blue" alt="Profile views">
+</p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudSfn&show_icons=true&theme=radical"
+" alt="Profile views">
+</p>
+
 
 <!-- ## 🌐 Socials:
 <i><b>Coming Soon</b></i> -->
